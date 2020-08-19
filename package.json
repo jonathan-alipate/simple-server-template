@@ -1,0 +1,30 @@
+{
+  "name": "simple-server-template",
+  "version": "1.0.0",
+  "description": "simple express server template",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan-alipate/simple-server-template.git"
+  },
+  "keywords": [
+    "template",
+    "simple",
+    "express"
+  ],
+  "author": "Jonathan Alipate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathan-alipate/simple-server-template/issues"
+  },
+  "homepage": "https://github.com/jonathan-alipate/simple-server-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
