@@ -1,2 +1,4 @@
 # simple-server-template
-basic localhost server
+basic localhost:3000 server
+
+npm run dev to start server
